@@ -1,4 +1,4 @@
-# Star Admin Free Vue Admin Template
+# Star Admin Free Vue Admin Template by VueJS Admin
 
 
 Star Admin Vue Admin Template is a free admin template based on Bootstrap 4 and Vue.js. The template is built using the framework Bootstrap-Vue. Bootstrap-Vue is a framework that implements the Bootstrap 4 components and grid system available for Vue.js.
