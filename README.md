@@ -9,9 +9,9 @@ This remarkably flexible and highly customizable template helps you create an am
 
 ## Demo
 
-Visit: https://www.bootstrapdash.com/demo/star-admin-vue/
+Visit: https://vuejsadmin.com/product/star-admin/
 
-[![N|Solid](screenshot.jpg)](http://www.bootstrapdash.com/demo/star-admin-vue)
+[![N|Solid](screenshot.jpg)](https://vuejsadmin.com/product/star-admin/)
 
 ## Installation
 
@@ -33,7 +33,7 @@ StarAdmin-Free-Vue-Admin-Template/
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/BootstrapDash/StarAdmin-Free-Vue-Admin-Template.git
+$ git clone https://github.com/vuejsadmin/StarAdmin-Free-Vue-Admin-Template.git
 
 # go into app's directory
 $ cd StarAdmin-Free-Vue-Admin-Template
